@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 navtitle: About
 ---
-# MOUNT FOG  
+# MOUNT FOG
 
 is a multidisciplinary art project established in 2011  
 by Nicola Domaneschi (b, 1987. Italy), Erich Grunewald (b, 1988. Sweden) and Marco Verdi (b, 1987. Italy).  
