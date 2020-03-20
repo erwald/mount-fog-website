@@ -16,3 +16,6 @@ This site uses [11ty](https://www.11ty.io/). For more information, see the [11ty
 - Look into hosting (E)
 - Implement CSS skeleton (E)
 - Do CSS styling and fine-tuning (M)
+- Create splash page content (E)
+- Do CSS styling for splash page (M)
+- Get domain from Squarespace (E)
