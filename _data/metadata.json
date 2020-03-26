@@ -4,5 +4,6 @@
     "description": "Mount Fog is a multidisciplinary art project established by Nicola Domaneschi, Erich Grunewald and Marco Verdi. We are committed to photography and sound art.",
     "author": {
         "name": "Nicola Domaneschi, Erich Grunewald & Marco Verdi"
-    }
+    },
+    "pathPrefix": "/mount-fog-website"
 }

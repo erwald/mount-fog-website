@@ -11,5 +11,5 @@ Includes poster. Limited edition of 300, hand-numbered.
 Design by Nicola Domaneschi.  
 Released by Frohike in April 2011.
 
-![Viscera/// cover art](/img/viscera_zeitgeist_cover_art.jpg "Viscera/// cover art")
-![Viscera/// sleeve](/img/viscera_zeitgeist_sleeve.jpg "Viscera/// sleeve")
+![Viscera/// cover art]({{metadata.pathPrefix}}/img/viscera_zeitgeist_cover_art.jpg "Viscera/// cover art")
+![Viscera/// sleeve]({{metadata.pathPrefix}}/img/viscera_zeitgeist_sleeve.jpg "Viscera/// sleeve")

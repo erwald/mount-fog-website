@@ -15,5 +15,5 @@ Limited edition of 250, hand-numbered.
 Design by Nicola Domaneschi.  
 Released by Night of the Vinyl Dead Records in May 2014.
 
-![Viscera/// cover art](/img/viscera_cyclops_cover_art.jpg "Viscera/// cover art")
-![Viscera/// sleeve](/img/viscera_cyclops_sleeve.jpg "Viscera/// sleeve")
+![Viscera/// cover art]({{metadata.pathPrefix}}/img/viscera_cyclops_cover_art.jpg "Viscera/// cover art")
+![Viscera/// sleeve]({{metadata.pathPrefix}}/img/viscera_cyclops_sleeve.jpg "Viscera/// sleeve")

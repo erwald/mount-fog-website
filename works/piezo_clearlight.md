@@ -17,6 +17,6 @@ Released by Circle Vision in March 2015.
 
 SOLD OUT
 
-![Piezo & Clearlight cover art](/img/piezo_clearlight_cover_art.jpg "Piezo & Clearlight cover art")
-![Piezo & Clearlight sleeve](/img/piezo_clearlight_making_1.jpg "Piezo & Clearlight sleeve")
+![Piezo & Clearlight cover art]({{metadata.pathPrefix}}/img/piezo_clearlight_cover_art.jpg "Piezo & Clearlight cover art")
+![Piezo & Clearlight sleeve]({{metadata.pathPrefix}}/img/piezo_clearlight_making_1.jpg "Piezo & Clearlight sleeve")
 
