@@ -21,7 +21,6 @@ Links to images need to be prefixed with `{{metadata.pathPrefix}}` or they won't
 - Fill in missing content (M)
 - Define layout / make a mock-up (M)
 - Look into plugins for showing photos (E)
-- Look into hosting (E)
 - Implement CSS skeleton (E)
 - Do CSS styling and fine-tuning (M)
 - Create splash page content (E)
