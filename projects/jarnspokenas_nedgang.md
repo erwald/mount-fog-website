@@ -24,4 +24,4 @@ Motion is often absent, but there is still a looking forward and back. Rather th
 
 _Järnspökenas Nedgång_ is about the strangeness of abandonment. The hope is that the viewer wonders, Who has been here and what has occurred? That you might see a lost object and ask yourself, Who created this and when and what for; and why was it abandoned? Or you see a building and wonder, Who lived or worked here? And how do these environments reflect the viewer’s inner self?
 
-![Abandoned hut]({{metadata.pathPrefix}}/img/jarnspokenas_nedgang_abandoned_hut.jpg "Abandoned hut")
+![Abandoned hut]({{ /img/jarnspokenas_nedgang_abandoned_hut.jpg | url }} "Abandoned hut")

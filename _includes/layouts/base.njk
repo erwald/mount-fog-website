@@ -16,8 +16,8 @@ externalLinks:
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>{{ metadata.title }} - {{ title or 'a Multidisciplinary Art Project' }}</title>
         <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
-        <link rel="stylesheet" href="{{ '{{metadata.pathPrefix}}/css/index.css' | url }}">
-        <link rel="stylesheet" href="{{ '{{metadata.pathPrefix}}/css/prism-base16-monokai.dark.css' | url }}">
+        <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+        <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
         <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     </head>
     <body>
@@ -25,7 +25,7 @@ externalLinks:
 
         <div class=""></div>
         <div class="sidebar">
-            <a href="{{ '/' | url }}"><img src="{{metadata.pathPrefix}}/img/mount_fog_logo.png" alt="We Know Nothing cover art" width="150px"/></a>
+            <a href="{{ '/' | url }}"><img src="{{ '/img/mount_fog_logo.png' | url }}" alt="We Know Nothing cover art" width="150px"/></a>
             <ul class="page-nav">
                 {%- for page in pages -%}
                     <li class="page-item {{ page.class }}">

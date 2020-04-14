@@ -2,7 +2,7 @@
 
 This site uses [11ty](https://www.11ty.io/). For more information, see the [11ty docs](https://www.11ty.io/docs/).
 
-Links to images need to be prefixed with `{{metadata.pathPrefix}}` or they won't load correctly when deployed. For example, `<img src="{{metadata.pathPrefix}}/img/some_image.png" />` instead of `<img src="/img/some_image.png" />`.
+All internal links, including to images, need to be piped through the `url` filter or they won't load correctly when deployed. For example, `<img src="{{ '/img/some_image.png' | url }}" />` instead of `<img src="/img/some_image.png" />`.
 
 ## Getting Started
 

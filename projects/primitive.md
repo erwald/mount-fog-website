@@ -13,5 +13,5 @@ Sound by Mount Fog.
 Video by Luca Mucci and Marco Verdi.  
 Installation by Mount Fog and Luca Mucci.
 
-![Photograph of the installation]({{metadata.pathPrefix}}/img/primitive_1.jpg "Photograph of the installation")
-![Photograph of the installation]({{metadata.pathPrefix}}/img/primitive_2.jpg "Photograph of the installation")
+![Photograph of the installation]({{ '/img/primitive_1.jpg' | url }} "Photograph of the installation")
+![Photograph of the installation]({{ '/img/primitive_2.jpg' | url }} "Photograph of the installation")
