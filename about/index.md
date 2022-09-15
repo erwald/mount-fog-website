@@ -10,6 +10,16 @@ We are committed to photography and sound art.
 
 ## Exhibitions / Acknowledgments
 
+## 2021
+
+### Flood, Medication Blues
+Solo exhibition (photography and audio installation), curated by Giulia Guanella and Matteo Spertini. [Algae Festival](https://www.labeula.com/algae-festival/). Terzo Spazio, Como.
+
+## 2020
+
+### [Mulattiere Acquasanta](http://www.ikonemi.org/mulattiere-acquasanta/)
+Artist residency in Acquasanta Terme, curated by Daniele Cinciripini and Serena Marchionni (Ikonemi).
+
 ### 2018 
 
 #### Urbanautica Institute Awards 2018
@@ -55,6 +65,11 @@ Audio installation and photo exhibition, curated by Dino Ferruzzi. CRAC Othervis
 
 ## Live / Performances
 
+### 2019
+12/12 - *Flood, Medication Blues*. Live A/V. Macao, Milan.
+28/09 - *Flood, Medication Blues*. Live A/V for *[Diecixdieci Photography Festival](https://www.festivaldiecixdieci.it/eventi-e-talks/mount-fog/)*. Ex-Convento S. Maria, Gonzaga (MN).
+20/09 - Standards, Milan.
+
 ### 2018
 
 - 23/11 – Bunker, Turin. 
@@ -80,6 +95,9 @@ Audio installation and photo exhibition, curated by Dino Ferruzzi. CRAC Othervis
 
 ## Publications
 
+- *[Erich Grunewald, Variationer](ttps://bruecke.bandcamp.com/album/variationer)* - Tape and digital album, released on Die Brücke (Germany, 2021)
+- *[V.A., Anima respinta dal futuro Vol. 1](https://toccailfuturo.bandcamp.com/album/tif003-anima-respinta-dal-futuro-vol-1)* - Tape and digital compilation, released on Tocca il Futuro (Italy, 2021)
+- *Mount Fog, Archives 2010-19* - C50 tape and digital album, released on Die Brücke (Germany, 2019)
 - *[Bab Magazine 03 “A Place To Live”](https://www.baleneaibordi.com/bab03/)* – Magazine, featured (Italy, 2018)
 - *[Mount Fog, We Know Nothing](https://hustleproductions.bandcamp.com/album/we-know-nothing)* – 8" lathe cut, released on Hustle (Italy, 2017)
 - *[Anfione e Zeto, Rivista di Architettura e Arti #27](http://www.margheritapetranzan.it/index_MP_pubbl_R_anfione.html#ventisette)* – Magazine, featured (Italy, 2017)

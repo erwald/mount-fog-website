@@ -25,8 +25,5 @@ _“At times bright, mellow and hopeful, at others dark, dissonant and brooding,
 
 ## DEALERS:
 
-- XX
-
-## REVIEWS:
-
-- XX
+- [Serendeepity](https://www.serendeepity.net/product/mount-fog-archives-2010-19/) (Milan, IT)
+- Rumpsti Pumsti (Berlin, DE)

@@ -24,7 +24,7 @@ _“Imagine a walk like any other, well, Mount Fog’s is not quite like that. S
 ## DEALERS:
 
 - Careful Catalog (USA)
-- Rewind-Forward (Bristol, UK)
+- [Rewind-Forward](https://rwdfwd.com/products/mount-fog-we-know-nothing/) (Bristol, UK)
 - Rumpsti Pumsti (Berlin, DE)
 - Music Lovers Records (Gothenburg, SWE)
 - Serendeepity (Milan, IT)
