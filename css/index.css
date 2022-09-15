@@ -1,0 +1,40 @@
+:root {
+  --black: #090a06;
+  --dark-grey: #999;
+  --grey: #ccc;
+  --light-grey: #f6f6f6;
+  --white: #fff;
+}
+
+html {
+  font-family: "Public Sans", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.2px;
+  color: var(--black);
+  background-color: var(--white);
+}
+
+body {
+  padding: 50px;
+  margin: 0;
+}
+
+a {
+  color: var(--black);
+  background-color: var(--white);
+}
+
+/* needed to remove background from logo */
+#logo a:hover {
+  color: transparent;
+  background-color: transparent;
+}
+
+a:hover {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+a img:hover {
+  background-color: var(--white);
+}

@@ -51,7 +51,11 @@ externalLinks:
 
         <div class=""></div>
         <div class="sidebar">
-            <a href="{{ '/' | url }}"><img src="{{ '/img/mount_fog_logo.png' | url }}" alt="We Know Nothing cover art" width="150px"/></a>
+            <div id="logo">
+                <a href="{{ '/' | url }}">
+                    <img src="{{ '/img/mount_fog_logo.png' | url }}" alt="We Know Nothing cover art" width="150px"/>
+                </a>
+            </div>
             <ul class="page-nav">
                 {%- for page in pages -%}
                     <li class="page-item {{ page.class }}">
