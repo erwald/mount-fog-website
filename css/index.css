@@ -23,7 +23,7 @@ body {
 
 a {
   color: var(--black);
-  background-color: var(--grey);
+  background-color: transparent;
 }
 
 #logo {
@@ -37,7 +37,7 @@ a {
 }
 
 a:hover {
-  color: var(--white);
+  color: var(--light-grey);
   background-color: var(--black);
   font-style: italic;
 }
@@ -86,4 +86,7 @@ main:after {
 .nav,
 .nav ul {
   list-style-type: none;
+}
+
+h1 {
 }
