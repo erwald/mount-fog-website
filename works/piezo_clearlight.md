@@ -12,11 +12,10 @@ Limited edition of 50, hand-numbered and hand-stamped.
 
 Design by Nicola Domaneschi and Marco Verdi.  
 Photography by Mount Fog.  
-Printed in Italy by Aalphabet.  
-Released by Circle Vision in March 2015.
+Printed in Italy by [Aalphabet](http://aalphabet.tumblr.com/).  
+Released by [Circle Vision](http://www.circlevision.dk/) in March 2015.
 
 SOLD OUT
 
 ![Piezo & Clearlight cover art]({{ '/img/piezo_clearlight_cover_art.jpg' | url }} "Piezo & Clearlight cover art")
 ![Piezo & Clearlight sleeve]({{ '/img/piezo_clearlight_making_1.jpg' | url }} "Piezo & Clearlight sleeve")
-

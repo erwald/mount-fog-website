@@ -12,13 +12,19 @@ We are committed to photography and sound art.
 
 ## 2021
 
+### [Mulattiere Acquasanta](http://www.ikonemi.org/mulattiere-acquasanta/)
+Collective exhibition (audio installation), curated by Serena Marchionni (Ikonemi). Forte Malatesta, Ascoli Piceno.
+
+### [CHIARA • dispositivo di ascolto a distanza](https://www.standardstudio.it/it/event/chiara-dispositivo-di-ascolto-a-distanza)
+Collective sound installation, curated by Standards. Chiaravalle Abbey, Milan.
+
 ### Flood, Medication Blues
 Solo exhibition (photography and audio installation), curated by Giulia Guanella and Matteo Spertini. [Algae Festival](https://www.labeula.com/algae-festival/). Terzo Spazio, Como.
 
 ## 2020
 
 ### [Mulattiere Acquasanta](http://www.ikonemi.org/mulattiere-acquasanta/)
-Artist residency in Acquasanta Terme, curated by Daniele Cinciripini and Serena Marchionni (Ikonemi).
+Artist residency in Acquasanta Terme, curated by Serena Marchionni (Ikonemi).
 
 ### 2018 
 
@@ -65,10 +71,13 @@ Audio installation and photo exhibition, curated by Dino Ferruzzi. CRAC Othervis
 
 ## Live / Performances
 
+### 2021
+- 12/08 - *Flood, Medication Blues*. Live A/V for *[Non Frequenze Festival "Racconti dal fiume"](https://nonfrequenze.it/)*. Imbarchino del Valentino, Turin.
+
 ### 2019
-12/12 - *Flood, Medication Blues*. Live A/V. Macao, Milan.
-28/09 - *Flood, Medication Blues*. Live A/V for *[Diecixdieci Photography Festival](https://www.festivaldiecixdieci.it/eventi-e-talks/mount-fog/)*. Ex-Convento S. Maria, Gonzaga (MN).
-20/09 - Standards, Milan.
+- 12/12 - *Flood, Medication Blues*. Live A/V. Macao, Milan.
+- 28/09 - *Flood, Medication Blues*. Live A/V for *[Diecixdieci Photography Festival](https://www.festivaldiecixdieci.it/eventi-e-talks/mount-fog/)*. Ex-Convento S. Maria, Gonzaga (MN).
+- 20/09 - Standards, Milan.
 
 ### 2018
 

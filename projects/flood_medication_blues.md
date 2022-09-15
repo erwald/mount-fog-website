@@ -12,4 +12,4 @@ _Flood, Medication Blues_ racconta la vita ostinata nelle baracche lungo il Po: 
 
 Photography by Nicola Domaneschi & Marco Verdi
 
-**Need to add images and determine date here.**
+**Need to add images.**

@@ -19,21 +19,21 @@ _VA'rese - microvalorizzazione del quotidiano_ (dal dialetto lombardo "vardare",
 
 Photography by Nicola Domaneschi & Marco Verdi  
 Research by Marco Zanini  
-Text by Giulia Bombaglio and Marco Zanini
+Text by [Giulia Bombaglio](https://giuliabombaglio.com/2018/04/03/abitare-e-essere/) and Marco Zanini
 
 A project by:  
-VA'rese - Microvalorizzazione del quotidiano
+[VA'rese - Microvalorizzazione del quotidiano](https://varesemicrovalorizzazione.wordpress.com/)
 
 Sponsored by:  
-IFC Agenzia Unipol Varese, Eolo, Telmotor
+[IFC Agenzia UnipolSai Varese](https://ifc-group.it/index.php/agenzia-unipol-sai-varese), [Eolo](https://www.eolo.it/), [Telmotor](http://www.telmotor.it/)
 
 Under the patronage of:  
-Comune di Varese, Comitato Varese 200 Anni, FAI (Fondo Ambiente Italiano) - Delegazione di Varese, Ordine degli Architetti della Provincia di Varese
+Comune di Varese, Comitato Varese 200 Anni, [FAI (Fondo Ambiente Italiano) - Delegazione di Varese](http://www.fondoambiente.it/Chi-siamo/Index.aspx?q=varese), [Ordine degli Architetti della Provincia di Varese](http://www.ordinearchitettivarese.it/)
 
 In collaboration with:  
-UnipolSai Assicurazioni, Libera Varese, UnipolBanca, Slow Food Provincia di Varese, Karakorum Teatro
+UnipolSai Assicurazioni, [Libera Varese](http://www.libera.it/), UnipolBanca, [Slow Food Provincia di Varese](http://www.slowfoodvarese.it/), [Karakorum Teatro](http://www.karakorumteatro.it/)
 
 Organized by:  
 Elena Brusa Pasqué, Ileana Moretti, Carla Moretti, Enzo Cantoni, Fabio Beverina, Patrizia Buzzi
 
-**Need to add links and images plus determine date here.**
+**Need to add images.**

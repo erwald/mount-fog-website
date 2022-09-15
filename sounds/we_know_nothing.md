@@ -36,3 +36,5 @@ _“Imagine a walk like any other, well, Mount Fog’s is not quite like that. S
 - Vital Weekly (NL)
 - Cut and Run (CAN)
 - 7 pollici (IT)
+
+<iframe style="border: 0; width: 350px; height: 522px;" src="https://bandcamp.com/EmbeddedPlayer/album=2482060275/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://hustleproductions.bandcamp.com/album/we-know-nothing">We Know Nothing by Mount Fog</a></iframe>
