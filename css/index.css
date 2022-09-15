@@ -1,3 +1,5 @@
+@import "fonts.css";
+
 :root {
   --black: #090a06;
   --dark-grey: #999;
@@ -15,7 +17,7 @@ html {
 }
 
 body {
-  padding: 50px;
+  padding: 10ch 0;
   margin: 0;
 }
 
@@ -33,8 +35,51 @@ a {
 a:hover {
   color: var(--white);
   background-color: var(--black);
+  font-style: italic;
 }
 
 a img:hover {
   background-color: var(--white);
+}
+
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+#sidebar {
+  width: 500px;
+  padding: 0;
+  margin: 0;
+}
+
+#content {
+  max-width: 1000px;
+  margin-left: 10ch;
+}
+
+main:before {
+  content: "";
+  width: 10%;
+  min-width: 5ch;
+  max-width: 20ch;
+  display: inline-block;
+}
+
+main:after {
+  content: "";
+  width: 10%;
+  min-width: 5ch;
+  max-width: 20ch;
+  display: inline-block;
+}
+
+.nav {
+  display: inline-block;
+}
+
+.nav,
+.nav ul {
+  list-style-type: none;
 }

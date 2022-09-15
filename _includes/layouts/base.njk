@@ -50,42 +50,43 @@ externalLinks:
     <body>
         <header></header>
 
-        <div class=""></div>
-        <div class="sidebar">
-            <div id="logo">
-                <a href="{{ '/' | url }}">
-                    <img src="{{ '/img/mount_fog_logo.png' | url }}" alt="We Know Nothing cover art" width="150px"/>
-                </a>
-            </div>
-            <ul class="page-nav">
-                {%- for page in pages -%}
-                    <li class="page-item {{ page.class }}">
-                        {% if page.url %}
-                            <a href="{{ page.url | url }}">{{ page.name | upper }}</a>
-                        {% elif page.tag %}
-                            {{ page.name | upper }}
-                            <ul class="{{ page.tag }}-nav">
-                                {%- for innerPage in collections[page.tag] | sort(attribute = 'date', reverse=true) -%}
-                                    <li class="{{ page.tag }}-item">
-                                        <a href="{{ innerPage.url | url }}">{{ innerPage.data.title }}</a>
-                                    </li>
-                                {%- endfor -%}
-                            </ul>
-                        {% endif %}
-                    </li>
-                {%- endfor -%}
-            </ul>
-            <ul class="link-nav">
-                {%- for link in externalLinks -%}
-                    <li class="link-item">
-                        <a href="{{ link.url | url }}">{{ link.name }}</a>
-                    </li>
-                {%- endfor -%}
-            </ul>
-        </div>
-
         <main>
-            {{ content | safe }}
+            <div id="sidebar">
+                <div id="logo">
+                    <a href="{{ '/' | url }}">
+                        <img src="{{ '/img/mount_fog_logo.png' | url }}" alt="We Know Nothing cover art" width="150px"/>
+                    </a>
+                </div>
+                <ul class="nav" id="page-nav">
+                    {%- for page in pages -%}
+                        <li class="page-item {{ page.class }}">
+                            {% if page.url %}
+                                <a href="{{ page.url | url }}">{{ page.name | upper }}</a>
+                            {% elif page.tag %}
+                                <b>{{ page.name | upper }}</b>
+                                <ul class="{{ page.tag }}-nav">
+                                    {%- for innerPage in collections[page.tag] | sort(attribute = 'date', reverse=true) -%}
+                                        <li class="{{ page.tag }}-item">
+                                            <a href="{{ innerPage.url | url }}">{{ innerPage.data.title }}</a>
+                                        </li>
+                                    {%- endfor -%}
+                                </ul>
+                            {% endif %}
+                        </li>
+                    {%- endfor -%}
+                </ul>
+                <ul class="nav" id="link-nav">
+                    {%- for link in externalLinks -%}
+                        <li class="link-item">
+                            <a href="{{ link.url | url }}">{{ link.name }}</a>
+                        </li>
+                    {%- endfor -%}
+                </ul>
+            </div>
+
+            <div id="content">
+                {{ content | safe }}
+            </div>
         </main>
 
         <footer></footer>
