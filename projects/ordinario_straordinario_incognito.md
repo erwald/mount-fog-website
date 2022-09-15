@@ -35,5 +35,3 @@ UnipolSai Assicurazioni, [Libera Varese](http://www.libera.it/), UnipolBanca, [S
 
 Organized by:  
 Elena Brusa Pasqué, Ileana Moretti, Carla Moretti, Enzo Cantoni, Fabio Beverina, Patrizia Buzzi
-
-**Need to add images.**

@@ -12,4 +12,11 @@ _Flood, Medication Blues_ racconta la vita ostinata nelle baracche lungo il Po: 
 
 Photography by Nicola Domaneschi & Marco Verdi
 
-**Need to add images.**
+
+![Flood, Medication Blues]({{ '/img/flood_medication_blues_1.jpeg' | url }} "Flood, Medication Blues")
+![Flood, Medication Blues]({{ '/img/flood_medication_blues_2.jpg' | url }} "Flood, Medication Blues")
+![Flood, Medication Blues]({{ '/img/flood_medication_blues_3.jpg' | url }} "Flood, Medication Blues")
+![Flood, Medication Blues]({{ '/img/flood_medication_blues_4.jpg' | url }} "Flood, Medication Blues")
+![Flood, Medication Blues]({{ '/img/flood_medication_blues_5.jpg' | url }} "Flood, Medication Blues")
+![Flood, Medication Blues]({{ '/img/flood_medication_blues_6.jpg' | url }} "Flood, Medication Blues")
+![Flood, Medication Blues]({{ '/img/flood_medication_blues_7.jpg' | url }} "Flood, Medication Blues")
