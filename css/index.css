@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  padding: 10ch 20ch;
+  padding: 10ch 0;
   margin: 0;
 }
 
@@ -35,6 +35,7 @@ a {
 a:hover {
   color: var(--white);
   background-color: var(--black);
+  font-style: italic;
 }
 
 a img:hover {
@@ -42,7 +43,9 @@ a img:hover {
 }
 
 main {
+  width: 100%;
   display: flex;
+  flex-direction: row;
 }
 
 #sidebar {
@@ -52,6 +55,31 @@ main {
 }
 
 #content {
-  width: 100%;
+  max-width: 1000px;
   margin-left: 10ch;
+}
+
+main:before {
+  content: "";
+  width: 10%;
+  min-width: 5ch;
+  max-width: 20ch;
+  display: inline-block;
+}
+
+main:after {
+  content: "";
+  width: 10%;
+  min-width: 5ch;
+  max-width: 20ch;
+  display: inline-block;
+}
+
+.nav {
+  display: inline-block;
+}
+
+.nav,
+.nav ul {
+  list-style-type: none;
 }
