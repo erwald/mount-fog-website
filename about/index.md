@@ -35,11 +35,11 @@ Artist residency in Acquasanta Terme, curated by Serena Marchionni (Ikonemi).
 
 ### 2018
 
-#### Urbanautica Institute Awards 2018
+#### [Urbanautica Institute Awards 2018](http://www.urbanauticainstitute.com/awards2018)
 
 Shortlisted in the category 'People and Communities' with the project _Flood, Medication Blues_.
 
-#### Ikonemi / Bab Magazine – "A Place to Live"
+#### Ikonemi / [Bab Magazine](https://www.baleneaibordi.com/) – "A Place to Live"
 
 Awarded with the project _Flood, Medication Blues_.
 Collective exhibition. SI Fest OFF (Savignano Immagini Festival), Savignano Sul Rubicone.
