@@ -19,7 +19,5 @@ All internal links, including to images, need to be piped through the `url` filt
 ## To-do
 
 - Fill in missing photos (M)
-- Define layout / make a mock-up (M)
-- Implement CSS skeleton (E)
 - Do CSS styling and fine-tuning (M)
 - Get domain from Squarespace (E)
