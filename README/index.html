@@ -3,13 +3,13 @@
 <p>All internal links, including to images, need to be piped through the <code>url</code> filter or they won't load correctly when deployed. For example, <code>&lt;img src=&quot;/mount-fog-website/img/some_image.png&quot; /&gt;</code> instead of <code>&lt;img src=&quot;/img/some_image.png&quot; /&gt;</code>.</p>
 <h2>Getting Started</h2>
 <ol>
-<li>Make sure you have <a href="https://nodejs.org/en/">node.js</a> (version 8 or greater) installed.</li>
-<li>Navigate to this directory in the terminal and run <code>npm install</code>. This should install 11ty.</li>
+<li>Make sure you have <a href="https://nodejs.org/en/">node.js</a> (version 8 or greater) installed. (You only need to do this once.)</li>
+<li>Navigate to this directory in the terminal and run <code>npm install</code>. This should install 11ty. (You only need to do this once.)</li>
 <li>Also in the terminal, run <code>npx @11ty/eleventy --serve</code> and then open <a href="http://localhost:8080/">localhost:8080</a> in your browser. You should now see the website. The <code>--serve</code> option makes it so that, whenever you make any code changes, 11ty will automatically recompile the code and refresh the website.</li>
 </ol>
 <h2>How to Deploy</h2>
 <ol>
-<li>Navigate to this directory and run <code>npm install</code> in the terminal. This should install gh-pages.</li>
+<li>Navigate to this directory and run <code>npm install</code> in the terminal. This should install gh-pages. (You only need to do this once.)</li>
 <li>Run <code>npx @11ty/eleventy</code> to generate the HTML pages to the <code>_site</code> folder.</li>
 <li>Run <code>npm run deploy</code>. The website should be live at <a href="https://erwald.github.io/mount-fog-website/">erwald.github.io/mount-fog-website</a>.</li>
 </ol>
