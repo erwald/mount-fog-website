@@ -26,3 +26,11 @@ Motion is often absent, but there is still a looking forward and back. Rather th
 _Järnspökenas Nedgång_ is about the strangeness of abandonment. The hope is that the viewer wonders, Who has been here and what has occurred? That you might see a lost object and ask yourself, Who created this and when and what for; and why was it abandoned? Or you see a building and wonder, Who lived or worked here? And how do these environments reflect the viewer’s inner self?
 
 ![Abandoned hut]({{ '/img/jarnspokenas_nedgang_abandoned_hut.jpg' | url }} "Abandoned hut")
+![Järnspökenas Nedgång]({{ '/img/jarnspokenas_nedgang_2.jpg' | url }} "Järnspökenas Nedgång")
+![Järnspökenas Nedgång]({{ '/img/jarnspokenas_nedgang_3.jpg' | url }} "Järnspökenas Nedgång")
+![Järnspökenas Nedgång]({{ '/img/jarnspokenas_nedgang_4.jpg' | url }} "Järnspökenas Nedgång")
+![Järnspökenas Nedgång]({{ '/img/jarnspokenas_nedgang_5.jpg' | url }} "Järnspökenas Nedgång")
+![Järnspökenas Nedgång]({{ '/img/jarnspokenas_nedgang_6.jpg' | url }} "Järnspökenas Nedgång")
+![Järnspökenas Nedgång]({{ '/img/jarnspokenas_nedgang_7.jpg' | url }} "Järnspökenas Nedgång")
+![Järnspökenas Nedgång]({{ '/img/jarnspokenas_nedgang_8.jpg' | url }} "Järnspökenas Nedgång")
+![Järnspökenas Nedgång]({{ '/img/jarnspokenas_nedgang_9.jpg' | url }} "Järnspökenas Nedgång")
