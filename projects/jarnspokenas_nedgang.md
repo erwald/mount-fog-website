@@ -7,7 +7,7 @@ date: 2011-12-15
 
 # Järnspökenas Nedgång
 
-Audio installation and photographic exhibition, curated by Dino Ferruzzi. 15/12/2011 - 08/01/2012, CRAC Othervision Gallery, Cremona, (Italy). Digital book, self-published in april 2013.
+Audio installation and photographic exhibition, curated by Dino Ferruzzi. 15/12/2011 - 08/01/2012, CRAC Othervision Gallery, Cremona, (Italy). Digital book, self-published in April 2013.
 
 Photography, sound and text by Mount Fog.
 
