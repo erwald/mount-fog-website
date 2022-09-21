@@ -11,9 +11,16 @@ Audio installation and photographic exhibition, curated by Dino Ferruzzi. 15/12/
 
 Photography, sound and text by Mount Fog.
 
-<iframe src="https://e.issuu.com/embed.html?identifier=0th6nnisgkf7&amp;embedType=script#7139981/2292681" style="border:none;width:100%;height:100%;" title="issuu.com" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscree=""></iframe>
-
-<iframe width="100%" height="360" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2658114&amp;color=000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_artwork=false&amp;"></iframe>
+<table width="100%">
+    <tr height="100%">
+        <td height="100%">
+            <iframe src="https://e.issuu.com/embed.html?identifier=0th6nnisgkf7&amp;embedType=script#7139981/2292681" style="border:none;width:100%;height:100%;" title="issuu.com" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscree="" scrolling="no"></iframe>
+        </td>
+        <td>
+            <iframe width="100%" height="360" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2658114&amp;color=000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_artwork=false&amp;"></iframe>
+        </td>
+    </tr>
+</table>
 
 All surfaces are rough – either from the outset, as with the bark of trees and the thorny bushes, or through slow decay, as is the case of the manifold materials on display: cracked wood, broken plaster, frayed rope and rusted metal. And like the found objects get new uses, so do the materials found in the natural world reappear in the artificial: wood as doors, stone as walls, clay as bricks. Or they come in a different form entirely, combined and processed: cement, metal, glass…
 
