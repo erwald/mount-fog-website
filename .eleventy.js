@@ -10,6 +10,6 @@ module.exports = function (eleventyConfig) {
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
-    pathPrefix: "/mount-fog-website",
+    pathPrefix: "",
   };
 };
