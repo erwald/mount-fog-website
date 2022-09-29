@@ -3,6 +3,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("fonts");
+  eleventyConfig.addPassthroughCopy("CNAME");
 
   return {
     templateFormats: ["md", "njk", "html", "png", "jpg"],
@@ -10,6 +11,5 @@ module.exports = function (eleventyConfig) {
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
-    pathPrefix: "",
   };
 };
