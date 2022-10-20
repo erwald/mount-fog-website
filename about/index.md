@@ -122,7 +122,7 @@ Audio installation and photo exhibition, curated by Dino Ferruzzi. CRAC Othervis
 
 ## Publications
 
-- _[Erich Grunewald, Variationer](ttps://bruecke.bandcamp.com/album/variationer)_ - Tape and digital album, released on Die Brücke (Germany, 2021)
+- _[Erich Grunewald, Variationer](https://bruecke.bandcamp.com/album/variationer)_ - Tape and digital album, released on Die Brücke (Germany, 2021)
 - _[V.A., Anima respinta dal futuro Vol. 1](https://toccailfuturo.bandcamp.com/album/tif003-anima-respinta-dal-futuro-vol-1)_ - Tape and digital compilation, released on Tocca il Futuro (Italy, 2021)
 - _Mount Fog, Archives 2010-19_ - C50 tape and digital album, released on Die Brücke (Germany, 2019)
 - _[Bab Magazine 03 “A Place To Live”](https://www.baleneaibordi.com/bab03/)_ – Magazine, featured (Italy, 2018)
