@@ -41,8 +41,8 @@ Shortlisted in the category 'People and Communities' with the project _Flood, Me
 
 #### Ikonemi / [Bab Magazine](https://www.baleneaibordi.com/) – "A Place to Live"
 
-Awarded with the project _Flood, Medication Blues_.
-Collective exhibition. SI Fest OFF (Savignano Immagini Festival), Savignano Sul Rubicone.
+Awarded with the project _Flood, Medication Blues_.<br/>
+Collective exhibition. SI Fest OFF (Savignano Immagini Festival), Savignano Sul Rubicone.<br/>
 Collective exhibition. Festival Diecixdieci, Gonzaga.
 
 #### La fotografia d'autore incontra l'architettura
@@ -87,15 +87,23 @@ Audio installation and photo exhibition, curated by Dino Ferruzzi. CRAC Othervis
 
 ## Live / Performances
 
+### 2023
+
+- 15/07 – _Fantasma_. Live for Veddasca Sound. Armio (VA).
+
+### 2022
+
+- 24/09 – _Fantasma_. Sleeping concert. DASTE, Bergamo.
+
 ### 2021
 
-- 12/08 - _Flood, Medication Blues_. Live A/V for _[Non Frequenze Festival "Racconti dal fiume"](https://nonfrequenze.it/)_. Imbarchino del Valentino, Turin.
+- 12/08 – _Flood, Medication Blues_. Live A/V for _[Non Frequenze Festival "Racconti dal fiume"](https://nonfrequenze.it/)_. Imbarchino del Valentino, Turin.
 
 ### 2019
 
-- 12/12 - _Flood, Medication Blues_. Live A/V. Macao, Milan.
-- 28/09 - _Flood, Medication Blues_. Live A/V for _[Diecixdieci Photography Festival](https://www.festivaldiecixdieci.it/eventi-e-talks/mount-fog/)_. Ex-Convento S. Maria, Gonzaga (MN).
-- 20/09 - Standards, Milan.
+- 12/12 – _Flood, Medication Blues_. Live A/V. Macao, Milan.
+- 28/09 – _Flood, Medication Blues_. Live A/V for _[Diecixdieci Photography Festival](https://www.festivaldiecixdieci.it/eventi-e-talks/mount-fog/)_. Ex-Convento S. Maria, Gonzaga (MN).
+- 20/09 – Standards, Milan.
 
 ### 2018
 
@@ -114,7 +122,7 @@ Audio installation and photo exhibition, curated by Dino Ferruzzi. CRAC Othervis
 
 ### 2013
 
-- _Vildmarken Abstraction_. Live audio set.
+_Vildmarken Abstraction_. Live audio set.
 - 09/12 – Madame Claude, Berlin.
 - 06/07 – Spazio Frohike, Canegrate (MI).
 - 28/03 – Nattmaran, Gothenburg.
@@ -122,9 +130,12 @@ Audio installation and photo exhibition, curated by Dino Ferruzzi. CRAC Othervis
 
 ## Publications
 
-- _[Erich Grunewald, Variationer](https://bruecke.bandcamp.com/album/variationer)_ - Tape and digital album, released on Die Brücke (Germany, 2021)
-- _[V.A., Anima respinta dal futuro Vol. 1](https://toccailfuturo.bandcamp.com/album/tif003-anima-respinta-dal-futuro-vol-1)_ - Tape and digital compilation, released on Tocca il Futuro (Italy, 2021)
-- _Mount Fog, Archives 2010-19_ - C50 tape and digital album, released on Die Brücke (Germany, 2019)
+- _[V.A., Anima respinta dal futuro Vol. 2](https://toccailfuturo.bandcamp.com/album/anima-respinta-dal-futuro-vol-2)_ – Digital compilation, released on Tocca il Futuro (Italy, 2023)
+- _Mount Fog, Fantasma_ – Tape and digital album, released on Tocca il Futuro (Italy, 2023)
+- _[Erich Grunewald, Variationer](https://bruecke.bandcamp.com/album/variationer)_ – Tape and digital album, released on Die Brücke (Germany, 2021)
+- _[V.A., Anima respinta dal futuro Vol. 1](https://toccailfuturo.bandcamp.com/album/tif003-anima-respinta-dal-futuro-vol-1)_ – Tape and digital compilation, released on Tocca il Futuro (Italy, 2021)
+- _[Urbanautica Institute Awards 2019](https://www.urbanauticainstitute.com/books/urbanauticainstituteawards-2019)_ – Book, featured (Italy, 2019)
+- _Mount Fog, Archives 2010-19_ – C50 tape and digital album, released on Die Brücke (Germany, 2019)
 - _[Bab Magazine 03 “A Place To Live”](https://www.baleneaibordi.com/bab03/)_ – Magazine, featured (Italy, 2018)
 - _[Mount Fog, We Know Nothing](https://hustleproductions.bandcamp.com/album/we-know-nothing)_ – 8" lathe cut, released on Hustle (Italy, 2017)
 - _[Anfione e Zeto, Rivista di Architettura e Arti #27](http://www.margheritapetranzan.it/index_MP_pubbl_R_anfione.html#ventisette)_ – Magazine, featured (Italy, 2017)
