@@ -87,6 +87,13 @@ Audio installation and photo exhibition, curated by Dino Ferruzzi. CRAC Othervis
 
 ## Live / Performances
 
+### 2024
+
+- 26/09 - Neue Zukunft, Berlin.
+- 02/06 - _Fantasma_. Tocca Il Futuro label showcase. Box of Tangerine, Milan.
+- 05/05 – _Fantasma_. Live for _[Impressioni - a symposium on art, landscape and nature](https://spaziolampo.ch/Simposio2024)_. Spazio Lampo, Chiasso (Switzerland).
+- 22/02 – _Fantasma_. _[Special immersive live/listening session for an extended multichannel setup](https://www.ursss.com/2024/05/mount-fog/)_. C3, Milan.
+
 ### 2023
 
 - 15/07 – _Fantasma_. Live for Veddasca Sound. Armio (VA).
