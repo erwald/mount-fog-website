@@ -93,3 +93,38 @@ main:after {
 
 h1 {
 }
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+
+  body {
+    padding: 4ch 2ch;
+  }
+
+  main {
+    flex-direction: column;
+  }
+
+  main:before,
+  main:after {
+    display: none;
+  }
+
+  #sidebar {
+    width: 100%;
+    margin-bottom: 4ch;
+  }
+
+  #logo {
+    padding-left: 0;
+    margin-bottom: 2ch;
+  }
+
+  #content {
+    margin-left: 0;
+    max-width: 100%;
+  }
+}
